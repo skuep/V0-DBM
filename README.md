@@ -3,7 +3,7 @@
 # V0-DBM
 This is a differential pulley system belt mod for the Z-axis on Voron 0. 
 
-NOTE: Alpha version and heavy work in progress!
+NOTE: Alpha version and heavy work in progress! Some things are not yet tested, there WILL be road bumps ahead.
 
 ## What?
 A differential pulley system! It is a long known pulley system for achieving extremely high mechanical advantage using just pulleys and a belt.
