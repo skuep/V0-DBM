@@ -1,3 +1,4 @@
+[See at Onshape](https://cad.onshape.com/documents/652155fb16d5bfa4e40363ce/w/0de7fce5d378ec45beba7939/e/0d8c25df57177126b288434d?renderMode=0&uiState=625118011183de28f2984f7c)
 ![alt text](Images/V0-DBM.png)
 
 # V0-DBM
@@ -15,6 +16,8 @@ I wanted a V0 Belt mod, that eliminates the 80T pulley for stepping down the mot
 MA = 2/(1-r/R) = 2/(1-(24/30)*(24/32)) = 5
 
 Together with the 20T motor pulley with 2mm pitch (i.e. 40mm per revolution), this achieves a 40mm/5=8mm per revolution Z-axis advance. The same as with the original leadscrew.
+
+Also it looks cool and the mechanism is underrated.
 
 ## BOM
 You need the following extra parts (is probably missing something):
@@ -38,3 +41,5 @@ This repository is highly work in progress, the following things are still not s
 
 
 Feel free to use, open issues or leave alone :-)
+
+
