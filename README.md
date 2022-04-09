@@ -1,10 +1,13 @@
-[See at Onshape](https://cad.onshape.com/documents/652155fb16d5bfa4e40363ce/w/0de7fce5d378ec45beba7939/e/0d8c25df57177126b288434d?renderMode=0&uiState=625118011183de28f2984f7c)
-![alt text](Images/V0-DBM.png)
 
 # V0-DBM
 This is a differential pulley system belt mod for the Z-axis on Voron 0. 
 
 NOTE: Alpha version and heavy work in progress! Some things are not yet tested, there WILL be road bumps ahead.
+
+[See at Onshape](https://cad.onshape.com/documents/652155fb16d5bfa4e40363ce/w/0de7fce5d378ec45beba7939/e/0d8c25df57177126b288434d?renderMode=0&uiState=625118011183de28f2984f7c) | [Demonstration Video](https://www.reddit.com/r/VORONDesign/comments/txs1nn/what_do_you_guys_think_of_a_differential_pulley/?sort=new)
+
+![alt text](Images/V0-DBM.png)
+
 
 ## What?
 A differential pulley system! It is a long known pulley system for achieving extremely high mechanical advantage using just pulleys and a belt.
