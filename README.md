@@ -14,11 +14,11 @@ A differential pulley system! It is a long known pulley system for achieving ext
 See the [Wikpedia](https://en.wikipedia.org/wiki/Differential_pulley) article for more information on how this pulley system works. In this case, I split up the central shaft (connecting the two unequal pulleys) into two shafts and connected them with a small belt. This way we eliminate the belt crossing.
 
 ## Why?
-I wanted a V0 Belt mod, that eliminates the 80T pulley for stepping down the motion and increasing torque that is used in all other belt mods. In the differential pulley system, the "gear ratio" is integrated in the belt system. In this case, the two double pulleys have a teeth ratio of 24/30 (pulley A) and 24/32 (pulley B). According to the Wikipedia article, this results in the following mechanical advantage:
+I wanted a V0 Belt mod, that eliminates the 80T pulley for stepping down the motion and increasing torque that is used in all other belt mods. Also achieving relatively high mechanical advantage is no problem for differential pulley systems. In the differential pulley system, the "gear ratio" is integrated in the belt system. In this case, the two double pulleys have a overall teeth ratio of 27/33. Taking the Wikipedia article as a base, the following formula calculates the mechanical advantage in this system:
 
-MA = 2/(1-r/R) = 2/(1-(24/30)*(24/32)) = 5
+MA = 2/(1-r/R)-1 = 2/(1-27/33)-1 = 10
 
-Together with the 20T motor pulley with 2mm pitch (i.e. 40mm per revolution), this achieves a 40mm/5=8mm per revolution Z-axis advance. The same as with the original leadscrew.
+Together with the 20T motor pulley with 2mm pitch (i.e. 40mm per revolution), this achieves a 40mm/10=4mm per revolution Z-axis advance or 0.01mm per stepper half-step.
 
 Also it looks cool and the mechanism is underrated.
 
