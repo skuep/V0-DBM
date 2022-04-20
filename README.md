@@ -1,6 +1,6 @@
 
 # V0-DBM
-This is a differential pulley system belt mod for the Z-axis on Voron 0. 
+This is a high-resolution differential pulley system belt mod for the Z-axis on Voron 0 with optional Kirigami Bed support.
 
 NOTE: Alpha version and heavy work in progress! Some things are not yet tested, there WILL be road bumps ahead.
 
@@ -39,9 +39,8 @@ This repository is highly work in progress, the following things are still not s
 - Idler mount may be a bit crude
 - Moving-pulley-bed-part is rather crude
 - No idea for well working belt tensioning mechanism on the small belt.
-- Kirigami bed support planned
 - Endstop problem is still unsolved
-
+- Documentation/Images on how to assemble
 
 Feel free to use, open issues or leave alone :-)
 
