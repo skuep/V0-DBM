@@ -31,7 +31,7 @@ You need the following extra parts (is probably missing something):
 - 3x M3x6 BHCS
 - 4x M3x8 BHCS
 - 22x 0.5mm shim washer
-- 2GT belt 112mm
+- 2GT belt 112mm (110mm also possible when changing to 27/26 and 26/33 pulleys, contact me in this case)
 - 2GT belt 500mm
 
 ## ToDo
