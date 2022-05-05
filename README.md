@@ -22,6 +22,8 @@ With the 20T motor pulley (2mm pitch, i.e. 40mm per revolution), this achieves a
 
 Also the mechanism looks cool and is underrated. When you press me hard to find an advantage of this mod, I think this mod has less (special) parts than other belt mods.
 
+NOTE: Theoretically gear ratios of 16 or 32 are possible with combined pulley ratios of 30/34 or 31/33, respectively. With a 16T pulley this allows a resolution of 2mm or even 1mm per revolution.
+
 ## Note on Kirigami Bed
 For the Kirigami bed, you need to drill two extra 3mm holes for the two screws acting as the two shafts. Print and mount the drill-guide from the STLs to your Kirigami bed and drill in the designated holes with a 3mm drill bit. If your bed is made from Aluminium, you can deburr the drill-exit wound with a sharp exacto-knife.
 
