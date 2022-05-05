@@ -23,14 +23,15 @@ Together with the 20T motor pulley with 2mm pitch (i.e. 40mm per revolution), th
 Also it looks cool and the mechanism is underrated.
 
 ## BOM
-You need the following extra parts (is probably missing something):
+You need the following extra parts (this list is probably incomplete):
 - 20T pulley for stepper motor
 - 20T toothed idler (with bearing ID 3mm)
-- 2x M3x40 BHCS
+- 2x M3x40 BHCS (M3x30 BHCS with Kirigami Bed)
 - 5x M3x16 BHCS
 - 3x M3x6 BHCS
 - 4x M3x8 BHCS
 - 22x 0.5mm shim washer
+- A bunch of heat-stake inserts
 - 2GT belt 112mm (110mm also possible when changing to 27/26 and 26/33 pulleys, contact me in this case)
 - 2GT belt 500mm
 
