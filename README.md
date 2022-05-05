@@ -22,6 +22,9 @@ With the 20T motor pulley (2mm pitch, i.e. 40mm per revolution), this achieves a
 
 Also the mechanism looks cool and the mechanism is underrated. When you press me hard to find an advantage of this mod, I think this mod has less (special) parts than other belt mods.
 
+## Note on Kirigami Bed
+For the Kirigami bed, you need to drill two extra 3mm holes for the two screws acting as the two shafts. Print and mount the drill-guide from the STLs to your Kirigami bed and drill in the designated with a 3mm drill bit. If your bed is made from Aluminium, you can deburr the drill-exit with a sharp exacto-knife.
+
 ## BOM
 You need the following extra parts (this list is probably incomplete):
 - 20T pulley for stepper motor
