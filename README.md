@@ -37,10 +37,7 @@ You need the following extra parts (this list is probably incomplete):
 
 ## ToDo
 This repository is highly work in progress, the following things are still not satisfying:
-- Idler mount may be a bit crude
-- Moving-pulley-bed-part is rather crude
-- No idea for well working belt tensioning mechanism on the small belt.
-- Endstop problem is still unsolved
+- The endstop is actuated by the flange of one of the F623 bearings. Not nice but works for now.
 - Documentation/Images on how to assemble
 
 Feel free to use, open issues or leave alone :-)
