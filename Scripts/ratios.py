@@ -23,8 +23,8 @@ class BeltRatio(NamedTuple):
     def __str__(self):
         return f'1:{self.ma} [{self.a}/{self.b}{"*" if self.a==self.b else ""}, {self.c}/{self.d}{"*" if self.c==self.d else ""}]'
 
-pulleys = range(24, 33+1)
-limits = [4, 5, 10, 20]
+pulleys = range(24, 34+1)
+limits = [4, 5, 8, 10, 16, 20, 32]
 
 print(f'pulleys: {list(pulleys)}')
 print(f'limits: {list(limits)}')
