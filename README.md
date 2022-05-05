@@ -20,10 +20,10 @@ MA = 2/(1-r/R)-1 = 2/(1-27/33)-1 = 10
 
 With the 20T motor pulley (2mm pitch, i.e. 40mm per revolution), this achieves a 40mm/10=4mm per revolution Z-axis advance or 0.01mm per stepper half-step with a regular 1.8° stepper motor.
 
-Also the mechanism looks cool and the mechanism is underrated. When you press me hard to find an advantage of this mod, I think this mod has less (special) parts than other belt mods.
+Also the mechanism looks cool and is underrated. When you press me hard to find an advantage of this mod, I think this mod has less (special) parts than other belt mods.
 
 ## Note on Kirigami Bed
-For the Kirigami bed, you need to drill two extra 3mm holes for the two screws acting as the two shafts. Print and mount the drill-guide from the STLs to your Kirigami bed and drill in the designated with a 3mm drill bit. If your bed is made from Aluminium, you can deburr the drill-exit with a sharp exacto-knife.
+For the Kirigami bed, you need to drill two extra 3mm holes for the two screws acting as the two shafts. Print and mount the drill-guide from the STLs to your Kirigami bed and drill in the designated holes with a 3mm drill bit. If your bed is made from Aluminium, you can deburr the drill-exit wound with a sharp exacto-knife.
 
 ## BOM
 You need the following extra parts (this list is probably incomplete):
