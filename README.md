@@ -2,7 +2,7 @@
 # V0-DBM
 This is a high-resolution *differential pulley system* belt mod for the Z-axis on Voron 0 with optional Kirigami Bed support. There are quite a lot of belt mods out there, but this one differs significantly in how the mechanical advantage is implemented to achieve the same (or better) gearing ratio (notice the lack of an 80T pulley).
 
-NOTE: This is an alpha version and heavy work in progress! Things are mostly tested and working, however there WILL be road bumps ahead and a Voron-style instruction manual is not available. Use the interactive 3D Model on Onshape below for assembly help.
+NOTE: This is an alpha version and heavy work in progress! Things are mostly tested and working, however there WILL be road bumps ahead and a Voron-style instruction manual is not available. Use the interactive 3D Model on Onshape below for assembly help. Please read this README carefully and in its entirety.
 
 [See at Onshape](https://cad.onshape.com/documents/652155fb16d5bfa4e40363ce/w/0de7fce5d378ec45beba7939/e/0d8c25df57177126b288434d?renderMode=0&uiState=625118011183de28f2984f7c) | [Demonstration Video](https://www.reddit.com/r/VORONDesign/comments/txs1nn/what_do_you_guys_think_of_a_differential_pulley/?sort=new)
 
@@ -47,4 +47,6 @@ This repository is highly work in progress, the following things are still not s
 
 Feel free to use, open issues or leave alone :-)
 
+## Known Issues
+Unfortunately I could not get a very linear motion out of this system yet. I recorded Z movement with a dial test indicator in 0.1mm increments and the accuracy is only around +/-50 um (worst case). I think this is not enough and is probably due to the belt, that "pulls" the bed up being fed through multiple (3d printed) pulleys. In fact, both small pulleys and the belt-length can be found as a periodicity in the Z position error (even with original Gates belts). That is why I currently do not recommend this mechanism for the Z-axis drive.
 
